@@ -1,0 +1,50 @@
+D:\MicroControll\Lab5\MasterForm\MasterForm\bin\Debug\MasterForm.exe.config
+D:\MicroControll\Lab5\MasterForm\MasterForm\bin\Debug\MasterForm.exe
+D:\MicroControll\Lab5\MasterForm\MasterForm\bin\Debug\MasterForm.pdb
+D:\MicroControll\Lab5\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.AssemblyReference.cache
+D:\MicroControll\Lab5\MasterForm\MasterForm\obj\Debug\MasterForm.Master.resources
+D:\MicroControll\Lab5\MasterForm\MasterForm\obj\Debug\MasterForm.Properties.Resources.resources
+D:\MicroControll\Lab5\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.GenerateResource.cache
+D:\MicroControll\Lab5\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.CoreCompileInputs.cache
+D:\MicroControll\Lab5\MasterForm\MasterForm\obj\Debug\MasterForm.exe
+D:\MicroControll\Lab5\MasterForm\MasterForm\obj\Debug\MasterForm.pdb
+D:\lab5\lab5\MasterForm\MasterForm\bin\Debug\MasterForm.exe.config
+D:\lab5\lab5\MasterForm\MasterForm\bin\Debug\MasterForm.exe
+D:\lab5\lab5\MasterForm\MasterForm\bin\Debug\MasterForm.pdb
+D:\lab5\lab5\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.AssemblyReference.cache
+D:\lab5\lab5\MasterForm\MasterForm\obj\Debug\MasterForm.Master.resources
+D:\lab5\lab5\MasterForm\MasterForm\obj\Debug\MasterForm.Properties.Resources.resources
+D:\lab5\lab5\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.GenerateResource.cache
+D:\lab5\lab5\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.CoreCompileInputs.cache
+D:\lab5\lab5\MasterForm\MasterForm\obj\Debug\MasterForm.exe
+D:\lab5\lab5\MasterForm\MasterForm\obj\Debug\MasterForm.pdb
+D:\lab5-MK\lab5\MasterForm\MasterForm\bin\Debug\MasterForm.exe.config
+D:\lab5-MK\lab5\MasterForm\MasterForm\bin\Debug\MasterForm.exe
+D:\lab5-MK\lab5\MasterForm\MasterForm\bin\Debug\MasterForm.pdb
+D:\lab5-MK\lab5\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.AssemblyReference.cache
+D:\lab5-MK\lab5\MasterForm\MasterForm\obj\Debug\MasterForm.Master.resources
+D:\lab5-MK\lab5\MasterForm\MasterForm\obj\Debug\MasterForm.Properties.Resources.resources
+D:\lab5-MK\lab5\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.GenerateResource.cache
+D:\lab5-MK\lab5\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.CoreCompileInputs.cache
+D:\lab5-MK\lab5\MasterForm\MasterForm\obj\Debug\MasterForm.exe
+D:\lab5-MK\lab5\MasterForm\MasterForm\obj\Debug\MasterForm.pdb
+D:\MK\labs\lab5Full\MasterForm\MasterForm\bin\Debug\MasterForm.exe.config
+D:\MK\labs\lab5Full\MasterForm\MasterForm\bin\Debug\MasterForm.exe
+D:\MK\labs\lab5Full\MasterForm\MasterForm\bin\Debug\MasterForm.pdb
+D:\MK\labs\lab5Full\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.AssemblyReference.cache
+D:\MK\labs\lab5Full\MasterForm\MasterForm\obj\Debug\MasterForm.Master.resources
+D:\MK\labs\lab5Full\MasterForm\MasterForm\obj\Debug\MasterForm.Properties.Resources.resources
+D:\MK\labs\lab5Full\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.GenerateResource.cache
+D:\MK\labs\lab5Full\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.CoreCompileInputs.cache
+D:\MK\labs\lab5Full\MasterForm\MasterForm\obj\Debug\MasterForm.exe
+D:\MK\labs\lab5Full\MasterForm\MasterForm\obj\Debug\MasterForm.pdb
+C:\Users\Марічка Кундрат\Desktop\Lab555\MasterForm\MasterForm\bin\Debug\MasterForm.exe.config
+C:\Users\Марічка Кундрат\Desktop\Lab555\MasterForm\MasterForm\bin\Debug\MasterForm.exe
+C:\Users\Марічка Кундрат\Desktop\Lab555\MasterForm\MasterForm\bin\Debug\MasterForm.pdb
+C:\Users\Марічка Кундрат\Desktop\Lab555\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.AssemblyReference.cache
+C:\Users\Марічка Кундрат\Desktop\Lab555\MasterForm\MasterForm\obj\Debug\MasterForm.Master.resources
+C:\Users\Марічка Кундрат\Desktop\Lab555\MasterForm\MasterForm\obj\Debug\MasterForm.Properties.Resources.resources
+C:\Users\Марічка Кундрат\Desktop\Lab555\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.GenerateResource.cache
+C:\Users\Марічка Кундрат\Desktop\Lab555\MasterForm\MasterForm\obj\Debug\MasterForm.csproj.CoreCompileInputs.cache
+C:\Users\Марічка Кундрат\Desktop\Lab555\MasterForm\MasterForm\obj\Debug\MasterForm.exe
+C:\Users\Марічка Кундрат\Desktop\Lab555\MasterForm\MasterForm\obj\Debug\MasterForm.pdb
